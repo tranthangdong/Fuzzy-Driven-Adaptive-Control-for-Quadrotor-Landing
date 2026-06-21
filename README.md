@@ -1,4 +1,5 @@
-[![Build Status](hhttps://github.com/tranthangdong/Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing/docs/badge.svg)](https://github.com/tranthangdong/Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing)
+[![Build Status](https://github.com/tranthangdong/Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing/blob/main/docs/badge.svg)](https://github.com/tranthangdong/Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing)
+
 # Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing
 An enhanced version of the precision landing algorithm uses a 3x3 fuzzy controller 
 
