@@ -1,4 +1,7 @@
 [![Build Status](https://github.com/tranthangdong/Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing/blob/main/docs/badge.svg)](https://github.com/tranthangdong/Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing)
+<p align="center">
+<img src="imgs/iaedtu.jpg" alt="" width="20%" />
+</p>
 
 # Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing
 An enhanced version of the precision landing algorithm uses a 3x3 fuzzy controller 
@@ -27,6 +30,7 @@ source /opt/ros/humble/setup.bash
 ```
 ### b. PX4 Autopilot
 We used the PX4 Autopilot which uses the Micro XRCE-DDS Agent & Client as middleware. Here are the installation commands to run in your terminal, you can also check the PX4 documentation:
+
 ```bash
 cd
 git clone https://github.com/PX4/PX4-Autopilot.git --recursive
