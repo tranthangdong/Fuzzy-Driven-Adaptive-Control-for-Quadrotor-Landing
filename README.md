@@ -48,7 +48,32 @@ make
 sudo make install
 sudo ldconfig /usr/local/lib/
 ```
-### c. Install and build the package
+### c. Gazebo Transport (Gx-Transport)
+```bash
+# Install Gazebo Harmonic
+sudo apt install gz-harmonic
+sudo apt install libgz-transport13-dev
+sudo apt install python3-gz-transport13
+```
+### d. OpenCV & Python Dependencies
+```bash
+# OpenCV 4.7+ 
+pip3 install --user opencv-python==4.7.0.72
+pip3 install --user opencv-contrib-python==4.7.0.72
+# Install pip và Python libs
+sudo apt install python3-pip python3-numpy python3-opencv
+
+# Install others Python libs
+pip3 install --user numpy opencv-python opencv-contrib-python
+pip3 install --user rclpy
+pip3 install --user pyyaml
+sudo apt install python3-colcon-common-extensions
+sudo apt install python3-rosdep2
+sudo rosdep init
+rosdep update
+
+```
+### e. Install and build the package
 Create a ROS2 workspace (Skip if already done)
 ```bash
 cd
