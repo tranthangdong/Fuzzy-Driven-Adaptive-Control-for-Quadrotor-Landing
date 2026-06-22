@@ -1,0 +1,5 @@
+numpy>=1.24.0
+opencv-python>=4.7.0
+opencv-contrib-python>=4.7.0
+rclpy>=3.0.0
+pyyaml>=6.0
