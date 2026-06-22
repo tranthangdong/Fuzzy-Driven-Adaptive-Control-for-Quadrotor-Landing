@@ -2,7 +2,9 @@
 <p align="center">
 <img src="imgs/iaedtu.jpg" alt="" width="20%" />
 </p>
+
 # Fuzzy-Driven-Adaptive-Control-for-Quadrotor-Landing
+
 An enhanced version of the precision landing algorithm uses a 3x3 fuzzy controller 
 
 ## 1. 🛠️ Requirements
