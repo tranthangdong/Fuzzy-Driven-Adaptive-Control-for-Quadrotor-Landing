@@ -88,7 +88,7 @@ git clone https://github.com/tranthangdong/Fuzzy-Driven-Adaptive-Control-for-Qua
 mv prj_DroneLanding
 ```
 ## 2. 🚀 How to run
-.
+
+The main source code will be provided once our paper is accepted.
 ## 3. ✍️ Paper:
 .
-## 4. 🔗 References
